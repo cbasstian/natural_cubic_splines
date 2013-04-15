@@ -1,0 +1,6 @@
+compile with:
+javac -sourcepath src src/Test.java
+
+
+run with:
+java -cp src Test
